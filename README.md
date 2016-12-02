@@ -1,6 +1,4 @@
 # BiSensorial
-
-TEAM NAME: Team Bisensorial
  
 ##WHO:
 
