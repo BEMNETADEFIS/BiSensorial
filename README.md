@@ -27,3 +27,10 @@ Our project builds on the work of Höller et al (2012), who found changes in alp
 - Höller, J., et al. 2012. ‘Individual brain-frequency responses to self-selected music.’ Dec. Int J Psychophysiol. 86(3):206-13. doi: 10.1016/j.ijpsycho.2012.09.005.
 - Höök, K., Ståhl, A., Jonsson, M., Mercurio, J., Karlsson, A., & Johnson, E.-C. B. (2015). Somaesthetic design. Interactions, 22(4), 26–33. http://doi.org/10.1145/2770888
 - Reedjik et al. 2013. ‘The impact of binaural beats on creativity.’ Front Hum Neurosci. 7: 786. 10.3389/fnhum.2013.00786
+
+## Other information:
+*This repository was made by specific group members and uploaded to a temporary environment. This temporary environment has been manually transferred to a a more permanent Hack the Brain Github account. If any of the former team members wish to administer this repository and manage the master branch, then they can contact the current administrator of the repository to gain the proper acces privileges to do so.*
+
+## Video on Project BiSensorial:
+[![Video image](http://handledmovie.com/get/player01.gif)](https://vimeo.com/177943253)
+
