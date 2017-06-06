@@ -1,4 +1,8 @@
 # BiSensorial
+Hack The Brain Dublin 2017 Project
+https://dublin.sciencegallery.com/page/bisensorial
+
+Hack The Brain Amsterdam 2016 Project
  
 ## Who
 
